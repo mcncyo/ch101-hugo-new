@@ -1,9 +1,9 @@
-baseURL: https://theme.hbstack.dev/
-title: HB Starter Theme Template
+baseURL: https://computerhacking101.com/
+title: Computer Hacking 101
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
+copyright: "Copyright © 2022-{year} Chris Allen All Rights Reserved."
 defaultContentLanguage: en
-defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
+defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true
@@ -106,8 +106,7 @@ related:
     weight: 60
   - name: series
     weight: 60
-  - name: authors
-    weight: 10
+
   - name: date
     weight: 10
   threshold: 10 # for testing, increase it to suit your case.
