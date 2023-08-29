@@ -48,7 +48,7 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: hbstack/theme
+      repo: mcncyo/computerhacking101-hugo
       branch: main
       # subpath: exampleSite
   # gallery:
